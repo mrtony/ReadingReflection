@@ -6,3 +6,7 @@
 平台: Hyread
 
 價格: 5xx
+
+### 封面
+
+![](http://im1.book.com.tw/image/getImage?i=http://www.books.com.tw/img/001/064/72/0010647207.jpg&v=53ede1f8&w=348&h=348)
